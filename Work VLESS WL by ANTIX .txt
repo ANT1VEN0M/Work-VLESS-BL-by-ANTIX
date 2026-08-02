@@ -18,3 +18,4 @@ vless://5238521b-c5dd-42af-870e-c174a2aaaafe@r-media.morphai.cc:443?alpn=h2%2Cht
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B09%5D%20%20MIFA
 
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=chrome&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%232
